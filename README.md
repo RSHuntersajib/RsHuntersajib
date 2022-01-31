@@ -16,7 +16,7 @@ pip2 install requests
 
 git clone 
 
-cd 
+cd RsHuntersajib
 
 python2 .py
 
