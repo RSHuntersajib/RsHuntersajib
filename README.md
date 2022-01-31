@@ -14,12 +14,12 @@ pip2 install mechanize
 
 pip2 install requests
 
-git clone https://github.com/hearthackerBabar/BangladeshFB
+git clone 
 
-cd BangladeshFB
+cd 
 
-python2 Huntter404.py
+python2 .py
 
-Tool Username : Huntter Tool Password : Facebook
+Tool Username : RS Tool Password : Hunter
 
 my whatsapp Number : +880 1874619204
