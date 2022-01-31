@@ -14,7 +14,7 @@ pip2 install mechanize
 
 pip2 install requests
 
-git clone 
+git clone https://github.com/RSHuntersajib/RsHuntersajib.git
 
 cd RsHuntersajib
 
