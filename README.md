@@ -18,7 +18,7 @@ git clone https://github.com/RSHuntersajib/RsHuntersajib.git
 
 cd RsHuntersajib
 
-python2 RShunters.py
+python2 RShunterp.py
 
 
 Tool Username : RS
